@@ -1,4 +1,4 @@
-GETCO KNIGHT SEQUENCE PROBLEM
+KCG KNIGHT SEQUENCE PROBLEM
 -----------------------------
 
 Problem description
