@@ -1,7 +1,7 @@
 __author__ = 'me'
 '''
 Created on Jun 5, 2012
-@author: Iftikhar Khan
+@author: Miks'il Khan
 '''
 REQD_SEQUENCE_LENGTH = 10
 VOWEL_LIMIT = 2
